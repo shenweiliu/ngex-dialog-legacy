@@ -1,6 +1,6 @@
 # ngex-dialog
 
-The `ngex-dialog` is published on the [npm](https://www.npmjs.com/package/ngex-dialog). The library works for applications with the Angular version 8 or above.
+The `ngex-dialog` is published on the [npm](https://www.npmjs.com/package/ngex-dialog). The library works for applications with the Angular version 8 - 12.
 
 ## Installation
 
